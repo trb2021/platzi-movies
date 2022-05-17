@@ -1,0 +1,25 @@
+{
+  "name": "platzi-movies",
+  "version": "1.0.0",
+  "description": "App del curso de Consumo de API REST con JavaScript de Platzi",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trb2021/platzi-movies.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "javascript",
+    "movies"
+  ],
+  "author": "Tomás Rodríguez Barrios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trb2021/platzi-movies/issues"
+  },
+  "homepage": "https://github.com/trb2021/platzi-movies#readme"
+}
